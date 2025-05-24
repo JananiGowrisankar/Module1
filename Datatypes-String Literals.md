@@ -20,4 +20,4 @@ To write a Python program to read a string from the user and then print it.
 
 
 ## Result
-Thus the python program has been successfully verified.
+Thus a Python program to read a string from the user and then print it is successfully verified.
